@@ -14,11 +14,6 @@ Task 3: ATM Interface
 Create an ATM class with withdraw, deposit, and checkBalance methods.
 Implement input validation and connect with user's bank account.
 
-Task 4: Currency Converter
-Convert currencies using real-time exchange rates.
-Provide a user-friendly interface for currency conversion.
-
-
 
 Contributing
 While this repository primarily serves as a record of my internship tasks, I welcome suggestions, improvements, and collaborations. Feel free to open an issue or submit a pull request if you have any valuable input.
